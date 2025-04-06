@@ -1,0 +1,10 @@
+[project]
+name = "simple_math_lukeni"
+version = "0.1.0"
+description = "A simple package for math operations"
+authors = [{ name = "Yuexiang Ni" }]
+license = {text = "MIT"}
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
